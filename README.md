@@ -5,11 +5,11 @@ Projet réalisé par : Timon De Morel et Guillaume Lictevout
 
 Dans le cadre de notre 3ème année de licence informatique à Paris 7 Diderot
 
-##Instructions
+## Instructions
 
 Dans un terminal, à la racine, lancez la commande : make
 
-###Les commandes
+### Les commandes
 
 * Envoyer un message privé : /pv [pseudo] [message]
 
