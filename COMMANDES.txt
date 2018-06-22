@@ -1,0 +1,13 @@
+Liste des commandes :
+
+Envoyer un message privé :
+/pv [pseudo] [message]
+
+Se deconnecter :
+/deco
+
+Shut le serveur :
+/shut
+
+Envoyer un fichier :
+/send [chemin_fichier] [pseudo] 
