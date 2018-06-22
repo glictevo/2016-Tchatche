@@ -7,9 +7,15 @@ Dans le cadre de notre 3ème année de licence informatique à Paris 7 Diderot
 
 ## Instructions
 
-Dans un terminal, à la racine, lancez la commande : make
+* Dans un terminal, à la racine, lancez la commande : make
+
+* Lancez un serveur avec la commande : ./serveur
+
+* Dans un autre terminal, vous pouvez créer un nouveau client avec la commande : ./client [pseudo]
 
 ### Les commandes
+
+* [message] : envoyer un message à tous les clients connectés au serveur
 
 * Envoyer un message privé : /pv [pseudo] [message]
 
